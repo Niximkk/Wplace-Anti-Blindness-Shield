@@ -9,6 +9,7 @@
 // @icon         https://em-content.zobj.net/source/google/428/last-quarter-moon-face_1f31c.png
 // @license      GPL-3.0
 // @updateURL    https://raw.githubusercontent.com/Niximkk/Wplace-Anti-Blindness-Shield/main/NABS.user.js
+// @downloadURL  https://raw.githubusercontent.com/Niximkk/Wplace-Anti-Blindness-Shield/main/NABS.user.js
 // ==/UserScript==
 
 (function() {
