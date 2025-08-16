@@ -10,6 +10,7 @@
 // @license      GPL-3.0
 // @updateURL    https://raw.githubusercontent.com/Niximkk/Wplace-Anti-Blindness-Shield/main/NABS.user.js
 // @downloadURL  https://raw.githubusercontent.com/Niximkk/Wplace-Anti-Blindness-Shield/main/NABS.user.js
+// @run-at       document-start
 // ==/UserScript==
 
 (function() {
