@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Nix's Anti Blindness Shield
 // @namespace    https://github.com/Niximkk
-// @version      1.0.0
+// @version      1.0.1
 // @description  Replaces the Basemap of the Wplace map
 // @author       Nix
 // @match        https://wplace.live/*
